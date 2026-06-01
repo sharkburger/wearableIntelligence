@@ -1,0 +1,9 @@
+title: Wearable Intelligence as Perceptual Media
+description: A qualifying integrative review — HCI / wearable / embodied intelligence
+theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

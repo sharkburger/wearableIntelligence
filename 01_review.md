@@ -1,3 +1,6 @@
+---
+---
+
 # Wearable Intelligence as Perceptual Media: A Systematic Integrative Review
 
 *Citation key:* **[ANCHOR]** = canonical/high-confidence; **[VERIFY]** = confirm year/venue before submission.

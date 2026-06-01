@@ -1,3 +1,6 @@
+---
+---
+
 # Wearable Intelligence as Perceptual Media — Qualifying Integrative Review
 
 **Author:** Biny Xu (xu.biny@northeastern.edu)

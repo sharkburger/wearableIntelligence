@@ -1,3 +1,6 @@
+---
+---
+
 # Conceptual Comparison Table
 
 Eleven framings of body-worn / body-coupled systems, compared across eight

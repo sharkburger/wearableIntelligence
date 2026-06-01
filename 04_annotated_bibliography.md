@@ -1,3 +1,6 @@
+---
+---
+
 # Annotated Bibliography (Starter Corpus)
 
 ~60 anchor works, grouped by function in the argument. Each entry: citation →
